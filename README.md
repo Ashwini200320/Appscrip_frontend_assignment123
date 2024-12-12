@@ -1,0 +1,1 @@
+This configuration is designed to work with a Next.js project using TypeScript. It sets up TypeScript to handle modern JavaScript features, enables strict type-checking, and integrates with Next.js’s special features. It also configures some performance optimizations (like incremental compilation) and compatibility with bundlers and JSON imports.
